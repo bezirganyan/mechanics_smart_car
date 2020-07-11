@@ -21,5 +21,3 @@ A window will pop up, where you shall input the information needed. After that
 press `Submit` button and the graph will be ploted.
 
 Created by **Grigor Bezirganyan** 
-
-E-mail **grigor.bezirganyan98@gmail.com**
